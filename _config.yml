@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : ESCAPER: RUN                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6450519372                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,7 +10,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/EscaperLogo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/EscaperLogo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Dodge the bombs. Test your reflexes!
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : A.Can Algan                                
 your_link                                 :                      
 your_city                                 :                                 
-email_address                             : 
+email_address                             : 2theapp@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -36,9 +36,9 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Just Run
-    description                           : 
-    fontawesome_icon_name                 : magic
+  - title                                 :  # Just Run
+    description                           :  # 
+    fontawesome_icon_name                 : #  magic
     
 
   - title                                 : # New Feature Title
